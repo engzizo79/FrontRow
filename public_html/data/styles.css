@@ -9,7 +9,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .image {
+}
+.placeholder {
+}
+.button {
 }
 .shape {
 }
@@ -56,6 +62,8 @@
 }
 .paragraph {
   text-align:left;
+}
+.flow_shape {
 }
 .arrow {
 }
