@@ -9,9 +9,13 @@
 }
 .box_1 {
 }
+.box_2 {
+}
 .ellipse {
 }
 .image {
+}
+.placeholder {
 }
 .button {
 }
@@ -56,6 +60,16 @@
   font-size:10px;
   text-align:left;
 }
+.label {
+  font-size:14px;
+  text-align:left;
+}
 .paragraph {
   text-align:left;
+}
+.checkbox {
+  text-align:left;
+}
+.html_button {
+  text-align:center;
 }
